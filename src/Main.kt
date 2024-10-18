@@ -43,7 +43,7 @@ fun main(){
         st.countOfDebts = 20
     }
     println(student3.countOfDebts)
-    val student5 = student?.copy() as Student
+
 
 
 }
